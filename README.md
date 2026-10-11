@@ -94,7 +94,7 @@ Git y GitHub: control de versiones y publicación del proyecto.
 
 📁 Estructura del proyecto
 
-Prelab30-09qa-main/
+pre-entrega-automation-testing/
 │
 ├── reports/
 │   ├── assets/
@@ -131,7 +131,7 @@ git clone <URL_DEL_REPOSITORIO>
 
 2. Ingresar al directorio del proyecto
 
-cd Prelab30-09qa-main
+cd pre-entrega-automation-testing
 
 3. Crear y activar un entorno virtual
 
